@@ -1,0 +1,29 @@
+{
+  "name": "my-first-next-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.4",
+    "node-fetch": "^2.6.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlengstorf/my-first-next-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlengstorf/my-first-next-site/issues"
+  },
+  "homepage": "https://github.com/jlengstorf/my-first-next-site#readme"
+}
